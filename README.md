@@ -1,4 +1,4 @@
-# DevRadar-Semana-Omnistack-10
+# Snake Game
 > O jogo foi realizado no bootcamp de "Desenvolvedor Front-end ReactJS" da digital innovation one, um dos desafios práticos foi o desenvolvimento do jogo da cobrinha
 
 ![](./static/jogo.png)
