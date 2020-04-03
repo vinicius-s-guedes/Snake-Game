@@ -1,7 +1,7 @@
 # Snake Game
 > O jogo foi realizado no bootcamp de "Desenvolvedor Front-end ReactJS" da digital innovation one, um dos desafios práticos foi o desenvolvimento do jogo da cobrinha
 
-![](./static/jogo.png)
+![](./static/snake.png)
 
 ## Como jogar:
 Abra o arquivo index.html em seu navegador, e após isso o jogo já iniciará.
