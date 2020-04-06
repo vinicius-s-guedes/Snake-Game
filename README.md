@@ -5,4 +5,4 @@
 
 ## Como jogar:
 Abra o arquivo index.html em seu navegador, e após isso o jogo já iniciará.
-O objetivo do jogo é comer os alimentos(pixel vermelhor) que apareceram aleatóriamente na tela, mas tome cuidado para não fazer a cobra se chocar com ela mesma, se acontecer isso significará game over
+O objetivo do jogo é comer os alimentos(pixels vermelho) que apareceram aleatóriamente na tela, mas tome cuidado para não fazer a cobra se chocar com ela mesma, se acontecer isso, significará game over
